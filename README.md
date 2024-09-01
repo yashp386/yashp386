@@ -5,6 +5,7 @@
 <h4>- 🏫 I’m currently pursuing computer engineering currently in5th-sem</h4>
 <h4>- 🔭 I’m currently working on JavaScript and NodeJS</h4>
 <h3 align="left">Connect with me:</h3>
+<h3><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" a href="https://www.linkedin.com/in/yash-prajapati-261ab7252/"></h3>
 <p align="left">
 </p>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
