@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:👋🏻 Hi I'm Yash
 -🏫 I’m currently pursuing computer engineering currently in<br>5th-sem<br>-🔭 I’m currently working on JavaScript and NodeJS
 
 
