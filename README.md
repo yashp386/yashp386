@@ -1,5 +1,5 @@
 # 💫 About Me:👋🏻 Hi I'm Yash
--🔭 I’m currently working on JavaScript and NodeJS <br>-🏫 I’m currently pursuing computer engineering currently in 5th-sem
+-🔭 I’m currently working on JavaScript and NodeJS <br>-🏫 I’m currently pursuing computer engineering
 
 
 ## 🌐 Socials:
