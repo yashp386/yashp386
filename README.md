@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="left">Hi 👋 I Am Yash </h1>
 ###
 <p align="left"></p>
@@ -53,6 +54,7 @@
 
 
 ###
+=======
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yash-prajapati-261ab7252/" target="_blank">
