@@ -1,7 +1,5 @@
 # 💫 About Me:👋🏻 Hi I'm Yash
 -🔭 I’m currently working on JavaScript and NodeJS <br>-🏫 I’m currently pursuing computer engineering currently in 5th-sem
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_1975) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-prajapati-261ab7252/) 
 
