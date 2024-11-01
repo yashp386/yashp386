@@ -1,4 +1,4 @@
-[![My Badgr Badge](https://api.badgr.io/public/assertions/QysQ0XmrRiSRrbqLoa2GVQ/image)](https://api.badgr.io/public/assertions/QysQ0XmrRiSRrbqLoa2GVQ?embedVersion=1&embedWidth=330&embedHeight=191&identity__email=yashp30386%40gmail.com)
+
 [![An image of @yashp386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashp386)](https://holopin.io/@yashp386)
 # 💫 About Me:👋🏻 Hi I'm Yash
 -🔭 I’m currently working on JavaScript and NodeJS <br>-🏫 I’m currently pursuing computer engineering (5th sem)
