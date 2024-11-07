@@ -1,5 +1,11 @@
 
 [![An image of @yashp386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashp386)](https://holopin.io/@yashp386)
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+
 
 # 💫 About Me:👋🏻 Hi I'm Yash
 -🔭 I’m currently working on JavaScript and NodeJS <br>-🏫 I’m currently pursuing computer engineering (5th sem)
