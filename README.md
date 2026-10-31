@@ -3,7 +3,7 @@
 ## Hacktoberfest 2025 holopins
 
 # 💫 About Me: Hi I'm Yash
--🔭 I’m currently working on Python <br>-🏫 I’m currently pursuing MTech
+-I’m currently pursuing MTech
 ## 🌐 Socials:
 [![X(Twitter)](https://img.shields.io/twitter/url)][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-prajapati-261ab7252/) 
 # 💻 Tech Stack:
