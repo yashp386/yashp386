@@ -2,6 +2,11 @@
 [![An image of @yashp386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashp386)](https://holopin.io/@yashp386)
 ## Hacktoberfest 2025 holopins
 
+## Hacktoberfest 2026 pins
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ac9b0a2-6fcf-44e0-9b15-87824cbe9dd4" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c9f7ac4-470b-443e-8f85-77072091052f" />
+
+
 # 💫 About Me: Hi I'm Yash
 -I’m currently pursuing MTech
 ## 🌐 Socials:
