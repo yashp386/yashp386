@@ -1,3 +1,5 @@
+# Hi I'm Yash
+-I’m currently pursuing MTech
 
 [![An image of @yashp386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashp386)](https://holopin.io/@yashp386)
 ## Hacktoberfest 2025 holopins
@@ -17,8 +19,7 @@
 
 <!-- <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0d7a434-b9e2-4a02-a8f2-3fa41bd72ed2" /> -->
 
-# 💫 About Me: Hi I'm Yash
--I’m currently pursuing MTech
+
 ## 🌐 Socials:
 [![X(Twitter)](https://img.shields.io/twitter/url)][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-prajapati-261ab7252/) 
 # 💻 Tech Stack:
