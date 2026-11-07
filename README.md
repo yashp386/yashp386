@@ -1,10 +1,6 @@
 # Hi I'm Yash
 -I’m currently pursuing MTech
 
-## Hacktoberfest 2025 holopins
-[![An image of @yashp386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashp386)](https://holopin.io/@yashp386)
-
-
 ## Hacktoberfest 2026 pins
 
 <img src="https://github.com/user-attachments/assets/6ac9b0a2-6fcf-44e0-9b15-87824cbe9dd4" width="160" height="160" alt="Hacktoberfest pin">
@@ -29,6 +25,9 @@
 
 <img src="https://github.com/user-attachments/assets/1b22fc0a-d2ec-4439-a55d-171e14746b81" width="160" height="160" alt="Hacktoberfest pin">
 
+
+## Hacktoberfest 2025 holopins
+[![An image of @yashp386's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashp386)](https://holopin.io/@yashp386)
 
 ## 🌐 Socials:
 [![X(Twitter)](https://img.shields.io/twitter/url)][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-prajapati-261ab7252/) 
